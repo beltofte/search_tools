@@ -1,0 +1,8 @@
+// PhpStorm
+.idea
+
+// OSX
+.DS_Store
+
+// Other files
+synonyms.txt
